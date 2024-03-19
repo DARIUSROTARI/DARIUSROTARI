@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DARIUSROTARI
+- 👀 I’m interested in programming, artificial intelligence and web development.
+- 🌱 I’m currently learning computer science at Universitatea Politehnica Timișoara.
+- 📫 How to reach me : You can contact me via email at dariusrotari9@gmail.com
